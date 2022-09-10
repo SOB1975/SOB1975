@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 # Оглавление
 ____
-# Инструменты и технологии применяемые в данном проекте
-____
-![VS code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
-![HTML](https://img.shields.io/badge/markup_language_HTML-000?style=for-the-badge&logo=HTML5)
-![Css](https://img.shields.io/badge/Cascading_Style_Sheets_Css-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)
-![gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=gulp&logoColor=CF4647)
+### 💻 Tech Stack:
+<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
+<img alt="Less" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
+![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)&nbsp;
+<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
 ### 🛠 Platforms and tools:
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
