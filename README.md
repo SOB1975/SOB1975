@@ -38,11 +38,6 @@ ____
 <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />&nbsp;
 <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;
-
-
-
-:arrow_up: [Оглавление](#я-просто-верстальщик)
-____
 ____
 ### ⚙️ GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOB1975)](https://github.com/anuraghazra/github-readme-stats)
