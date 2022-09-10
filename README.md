@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Верстальщик
 - 🐾 Люблю поиграть в шахматы
 ### 🤝 Connect with me:
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ____
 ### 💻 Tech Stack:
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
